@@ -1,16 +1,23 @@
-   public void logowanie(xyz) {
+   public void logowanie() {
         System.out.println("Podaj użytkownika");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
    public void logowanieGoogle() {
-        System.out.println("Podaj użytkownika");
+        System.out.println("Podaj użytkownika google");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
    public void logowanieMicrosoft() {
+        System.out.println("Podaj użytkownika microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+
+ public void logowanieMicrosoft1312321() {
         System.out.println("Podaj użytkownika");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
